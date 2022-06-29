@@ -14,7 +14,7 @@ Terraform v1.2.3
 you can count on this link to download Terraform based on your operation systems 
 https://www.terraform.io/downloads
 
-#Keypair 
+# Keypair 
 
 Terraform reads all files with the extension .tf in your current directory 
  1. Create a new directory and go into it 
