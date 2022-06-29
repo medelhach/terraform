@@ -16,4 +16,6 @@ https://www.terraform.io/downloads
 # Getting started 
 
 the first command to use is initialization steps in order to prepare the current working directory for use with Terraform 
+```
 terraform init 
+```
