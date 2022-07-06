@@ -35,5 +35,25 @@ the first command to use is initialization steps in order to prepare the current
 ```
 terraform init 
 ```
+next the command plan to creates an execution plan . which lets you previw the changes that terraform plans to make to your infrastructure 
+```
+terraform plan 
+```
+
+next the command  apply executes the actions proposed in a Terraform plan 
+
+```
+terraform apply 
+```
+and to destroy all remote objects managed by a particular Terraform configuration .
+
+```
+terraform destroy
+```
+
+
+
+
+
 
 
