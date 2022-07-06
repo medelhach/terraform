@@ -1,4 +1,4 @@
-# terraform Introduction
+# Terraform Introduction
 Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. 
 Terraform can help with multi-cloud by having one workflow for all clouds. The infrastructure Terraform manages can be hosted on public clouds like Amazon Web Services,
 Microsoft Azure, and Google Cloud Platform, or on-prem in private clouds such as VMWare vSphere, OpenStack, or CloudStack.
