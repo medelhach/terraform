@@ -1,12 +1,11 @@
 # File Extension 
-palin test file with the .tf file extention are where code in Terraform language is stored .
+Plain test file with the .tf file extention are where code in Terraform language is stored .
 
 you can use also .tf.json
 
 # Text Encoding 
 
-these plain test files must 
-use UTF-8 encoding and usually use Unix-style line ending (LF), 
+These plain test files must use UTF-8 encoding and usually use Unix-style line ending (LF), 
 though it canalso use Windows-style line endings (CRLF) as well.
 
 # Root Module 
