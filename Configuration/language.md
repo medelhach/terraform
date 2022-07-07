@@ -11,7 +11,7 @@ resource "aws_vpc" "main" {
 }
 ```
 
-#Syntax Consists Of:
+# Syntax Consists Of:
 * Blocks are containers for objects like resources 
 * Arguments assign a value to a name
 * Expressions represent a value 
